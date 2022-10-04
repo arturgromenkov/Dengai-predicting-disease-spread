@@ -1,2 +1,2 @@
-# Dengai-predicting-disease-spread
- Dengai-predicting-disease-spread RandomForestSolution
+# Dengai-predicting-disease-spread-RandomForest Solution
+Created by ArturGromenkov
